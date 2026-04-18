@@ -1,0 +1,19 @@
+{
+  "title": "Static Server",
+  "description": "A simple Node.js static file server",
+  "version": "1.0.0",
+  "pages": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "About",
+      "url": "/about.html"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact.html"
+    }
+  ]
+}
